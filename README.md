@@ -1,1 +1,1 @@
-This upload contains the files essential for the printivo clone
+This upload contains the files essential for the printivo clone.
